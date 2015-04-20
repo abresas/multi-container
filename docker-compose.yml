@@ -1,0 +1,4 @@
+app1:
+  build: app1
+app2:
+  build: app2
